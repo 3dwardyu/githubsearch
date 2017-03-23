@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { ProfileComponent } from './components/profile.component'
+import { ProfileComponent } from './components/profile.component';
 
 @NgModule({
   declarations: [
